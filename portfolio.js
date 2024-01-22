@@ -4,7 +4,7 @@ export const greetings = {
   name: "Mohit Kulkarni",
   title: "Welcome.",
   description:
-    "I am Student / Software Developer, learning Full Stack Web Development and Cyber Security. I have experience building Applications with Vanilla JavaScript, React,  Vue,  Node,  Java,  Spring Boot, Python,  Django and some other cool libraries and frameworks.",
+    "I am Student / Web Developer, learning Full Stack Web Development and Cyber Security. I have experience building Applications with Vanilla JavaScript, React,  Vue,  Node,  Java,  Spring Boot, Python,  Django and some other cool libraries and frameworks.",
   resumeLink: "https://brendanglancy.github.io/Resume/",
 };
 
